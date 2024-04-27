@@ -22,5 +22,17 @@ Bonfire is a sleek and minimalist product page template tailored for e-commerce 
 
 #### [LIVE PREVIEW](https://bonfire-ecommerce-product-page.netlify.app/)
 
-
 ![Design Thumbnail](https://freebiesbug.com/wp-content/uploads/2016/01/free-ecommerce-psd-website-template-580x435.jpg)
+
+<table>
+    <tr>
+        <th>#</th>
+        <th>Project Name</th>
+        <th>Link</th>
+    </tr>
+    <tr>
+        <td>001</td>
+        <td>Bonfire Free Ecommerce Product Page Template</td>
+        <td><a href="https://bonfire-ecommerce-product-page.netlify.app/">Live Preview</a></td>
+    </tr>
+</table>
