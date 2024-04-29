@@ -15,3 +15,24 @@ Welcome to my personal Frontend Static 100 Mini Projects Challenge! This challen
 ## Get Started
 
 I am excited to embark on this personal Frontend Static 100 Mini Projects Challenge and see where this journey takes me. Here's to pushing boundaries, learning new skills, and unleashing creativity one mini-project at a time!
+
+## 001. Bonfire Free Ecommerce Product Page Template
+
+Bonfire is a sleek and minimalist product page template tailored for e-commerce platforms. It offers a clean design, making it ideal for showcasing products effectively. This template was crafted and made available by [Design Lazy](https://freebiesbug.com/psd-freebies/bonfire-free-ecommerce-webpage-template/)
+
+#### [LIVE PREVIEW](https://bonfire-ecommerce-product-page.netlify.app/)
+
+![Design Thumbnail](https://freebiesbug.com/wp-content/uploads/2016/01/free-ecommerce-psd-website-template-580x435.jpg)
+
+<table>
+    <tr>
+        <th>#</th>
+        <th>Project Name</th>
+        <th>Link</th>
+    </tr>
+    <tr>
+        <td>001</td>
+        <td>Bonfire Free Ecommerce Product Page Template</td>
+        <td><a href="https://bonfire-ecommerce-product-page.netlify.app/">Live Preview</a></td>
+    </tr>
+</table>
