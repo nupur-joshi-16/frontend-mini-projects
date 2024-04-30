@@ -1,0 +1,31 @@
+.container {
+    margin: 0 auto;
+    width: 370px;
+    margin: 0 auto;
+    margin-top: 60px;
+}
+input {
+    margin-bottom: 16px;
+}
+hr {
+    background-color: none;
+    border: 1px solid #F0F2F7;
+    border: none;
+    height: 1px;
+    color: #F0F2F7;
+    background-color: #F0F2F7;
+    margin-top: 11px;
+    margin-bottom: 24px;
+}
+.fullName {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.firstName {
+    margin-right: 8px;
+}
+.lastName {
+    margin-left: 8px;
+}
